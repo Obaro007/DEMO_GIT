@@ -1,2 +1,1 @@
-// VScode test
-testing the tool
+Testing the tool
